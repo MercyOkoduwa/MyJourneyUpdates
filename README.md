@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MercyOkoduwa
-- 👀 I’m interested in quality assurance testing.
+- 👀 I’m interested in quality assurance testing. 
+- 😉 Before testing, i did quite a number of other things. (routine operations, roconciliation officer, implementation engineering and service engineering)
 - 🌱 I’m currently learning software testing through linkedln learning and youtube
-- 💞️ I’m looking to collaborate on intensive learning for testing
+- 💞️ I’m looking to collaborate on intensive automation testing
 - 📫 How to reach me - meokoduwa12@gmial.com
 - 😁 I recently stated learning automation with cypress and it has been really interesting to learn.
 
