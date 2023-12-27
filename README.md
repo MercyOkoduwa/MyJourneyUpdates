@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @MercyOkoduwa
+- ✍🏻 You can check out my portfolio on https://mercyokoduwa.vercel.app
 - 👀 I’m interested in quality assurance testing. 
 - 😉 Before testing, i did quite a number of other things. (routine operations, roconciliation officer, implementation engineering and service engineering)
 - 🌱 I’m currently learning software testing through linkedln learning and youtube
